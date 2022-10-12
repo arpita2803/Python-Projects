@@ -4,8 +4,8 @@ from bs4 import BeautifulSoup
 import lxml
 import smtplib
 
-EMAIL = "arpita2803@yahoo.com"
-PASSWORD = "wpsinmktkghjpfkr"
+EMAIL = "XXXXXXX@yahoo.com"
+PASSWORD = "XXXXXXXXXXXXXXX"
 
 PRODUCT_URL = "https://www.amazon.in/Fossil-Jacqueline-Analog-Womens-Watch-ES3843/dp/B00WM0CF4A/?_encoding=UTF8&pd_rd_w=gE6Ya&content-id=amzn1.sym.ee853eb9-cee5-4961-910b-2f169311a086&pf_rd_p=ee853eb9-cee5-4961-910b-2f169311a086&pf_rd_r=R0VQVMX2S6BWCCCHN5V1&pd_rd_wg=LBIET&pd_rd_r=62b71aa5-9b48-40ef-b10b-8406ea015016&ref_=pd_gw_ci_mcx_mr_hp_atf_m"
 header = {

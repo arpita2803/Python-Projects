@@ -4,8 +4,8 @@ STOCK = "TSLA"
 COMPANY_NAME = "Tesla Inc"
 STOCK_URL = "https://www.alphavantage.co/query"
 NEWS_URL = "https://newsapi.org/v2/everything"
-STOCK_API_KEY = "8N6BUUKFEXIHK1Q4"
-NEWS_API_KEY = "137c8d23ca4c49d69c19574e2098b8c2"
+STOCK_API_KEY = "XXXXXXXXX"
+NEWS_API_KEY = "XXXXXXXXXXXXXXXXXXX"
 
 ## STEP 1: Use https://www.alphavantage.co
 # When STOCK price increase/decreases by 5% between yesterday and the day before yesterday then print("Get News").

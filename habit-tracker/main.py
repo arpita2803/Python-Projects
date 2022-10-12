@@ -1,8 +1,8 @@
 import requests
 import datetime as dt
 
-USERNAME = "arpita2803"
-TOKEN = "3R+0oieZ$#i3GM8"
+USERNAME = "XXXXXXXXXX"
+TOKEN = "XXXXXXXXXXXX"
 GRAPH_ID = "graph1"
 pixela_url = "https://pixe.la/v1/users"
 pixela_config = {

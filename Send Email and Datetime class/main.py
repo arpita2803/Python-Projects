@@ -2,8 +2,8 @@ import smtplib
 import datetime as dt
 import random
 
-EMAIL = "arpita2803@yahoo.com"
-PASSWORD = "ikwnwbcmhtxpwmxp"
+EMAIL = "XXXXXXXXXXXX@yahoo.com"
+PASSWORD = "XXXXXXXXXXXXXXX"
 
 now = dt.datetime.now()
 # print(now.weekday()) #count starts from 0-Monday

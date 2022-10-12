@@ -4,8 +4,8 @@ from selenium.webdriver.common.by import By
 import time
 
 driver_path = "C:/Users/Hello/Chromedriver/chromedriver"
-email = "ad.iemcal@gmail.com"
-password = "c08/a051"
+email = "XXXXXX@gmail.com"
+password = "XXXXXXX"
 
 
 driver = webdriver.Chrome(driver_path)

@@ -5,8 +5,8 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
 BILLBOARD_URL = "https://www.billboard.com/charts/hot-100"
-SPOTIFY_CLIENT_ID = "ffeb023789824bbe9afaf6172ece0520"
-SPOTIFY_CLIENT_SECRET = "74109dc80b1a48eaa370b76c897d07bd"
+SPOTIFY_CLIENT_ID = "XXXXXXXXXXXXXXXXXXXXXX"
+SPOTIFY_CLIENT_SECRET = "XXXXXXXXXXXXXXXXXXXX"
 
 time_travel_date = input("Which year do you want to travel to? Type the date in this format YYYY-MM-DD: ")
 

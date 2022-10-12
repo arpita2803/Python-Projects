@@ -3,7 +3,7 @@ import requests
 
 class DataManager:
     def __init__(self):
-        self.sheety_api_key = "c631a68f7f103ad788fcfea9a2"
+        self.sheety_api_key = "XXXXXXXXXXXXXXXXXXX"
         self.sheety_url = "https://api.sheety.co/49dcecfe1c0e319bf7cfa3e1b97feadd/flightDeals"
         self.sheety_header = {
             "Authorization": f"Bearer {self.sheety_api_key}"

@@ -13,8 +13,8 @@ import datetime as dt
 import random
 import smtplib
 
-USERNAME = "arpita2803@yahoo.com"
-PASSWORD = "quekqguxdhcdlunc"
+USERNAME = "XXXXXXXXX@yahoo.com"
+PASSWORD = "XXXXXXXXXXXXXXXX"
 
 birthday_df = pd.read_csv("birthdays.csv")
 

@@ -4,8 +4,8 @@ from selenium.common import NoSuchElementException
 from selenium.webdriver.common.by import By
 
 CHROME_DRIVER_PATH = "C:/Users/Hello/Chromedriver/chromedriver"
-USERNAME = "arpita.das.2803"
-PASSWORD = "081040110021"
+USERNAME = "XXXXXXXXXXXX"
+PASSWORD = "XXXXXXXXXXXX"
 SIMILAR_ACCOUNT = "nasa"
 URL = "https://www.instagram.com/"
 

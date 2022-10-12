@@ -7,8 +7,8 @@ api_key = "680cea29a5031289372da166377eb210"
 OWM_Endpoint = "https://api.openweathermap.org/data/2.5/onecall"
 MY_LAT = "19.150858"
 MY_LONG = "73.078261"
-account_sid = "AC131eb0386f8aa5ac4e626c240320ada8"
-auth_token = "8fe702ee69fea766270bf374820b7745"
+account_sid = "XXXXXXXXXXXXXXXXXXXXXXX"
+auth_token = "XXXXXXXXXXXXXXXXXXXX"
 
 parameters = {
     "lat": MY_LAT,
